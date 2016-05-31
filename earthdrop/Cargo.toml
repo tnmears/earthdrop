@@ -1,0 +1,6 @@
+[package]
+name = "earthdrop"
+version = "0.1.0"
+authors = ["unitron6991"]
+
+[dependencies]
